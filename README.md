@@ -53,8 +53,8 @@ The final prediction is made using a majority voting strategy.
 ## Web Application
 
 We developed a web application using Streamlit. Users can input EEG readings, and after clicking the "Predict" button, the application provides an output:
-- **If a seizure is predicted**: "Seizure is going to occur. Take precautions."
-- **If no seizure is detected**: "No seizure detected."
+- **If a seizure is predicted**: "A seizure is going to occur in a few minutes. Take necessary precautions!!"
+- **If no seizure is predicted**: "No seizure is going to occur. Keep calm and carry on!"
 
 ## Installation and Usage
 
