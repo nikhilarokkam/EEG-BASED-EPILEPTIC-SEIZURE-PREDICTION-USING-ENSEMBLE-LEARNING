@@ -17,7 +17,7 @@ Epilepsy, a pervasive neurological disorder marked by unpredictable seizures, po
 - Project Description
 - Dataset
 - Feature Extraction and Selection
-- Modeling
+- Model Training
 - Web Application
 - Installation and Usage
 - Results
@@ -41,7 +41,7 @@ We utilized the preprocessed CHB-MIT scalp EEG database. The dataset is balanced
 - **Feature Selection**:
   - Methods applied to select the most relevant features for the prediction task.
 
-## Modeling
+## Model Training
 
 Ensemble learning techniques were employed to combine multiple classifiers for improved performance:
 - **Support Vector Machine (SVM)**
@@ -83,7 +83,6 @@ Through rigorous training, validation, and testing, the developed model seeks to
 Future improvements could include:
 
 - Enhancing the model's performance with larger datasets.
-- Integrating additional features and advanced feature selection techniques.
 - Developing a mobile application for real-time seizure prediction.
 
 ## Project Book:
