@@ -86,4 +86,4 @@ Future improvements could include:
 - Developing a mobile application for real-time seizure prediction.
 
 ## Project Book:
-[Project Book (1).pdf](https://github.com/nikhilarokkam/EEG-BASED-EPILEPTIC-SEIZURE-PREDICTION-USING-ENSEMBLE-LEARNING/files/15372250/Project.Book.1.pdf)
+Project Book [Project Book (1).pdf](https://github.com/nikhilarokkam/EEG-BASED-EPILEPTIC-SEIZURE-PREDICTION-USING-ENSEMBLE-LEARNING/files/15372250/Project.Book.1.pdf)
