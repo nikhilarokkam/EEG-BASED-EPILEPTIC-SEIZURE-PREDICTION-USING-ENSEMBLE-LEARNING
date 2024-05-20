@@ -15,6 +15,7 @@ Epilepsy, a pervasive neurological disorder marked by unpredictable seizures, po
 ## Table of Contents
 
 - Project Description
+- System Architecture
 - Dataset
 - Feature Extraction and Selection
 - Model Training
@@ -26,6 +27,10 @@ Epilepsy, a pervasive neurological disorder marked by unpredictable seizures, po
 ## Project Description
 
 Our project capitalizes on the intricacies of scalp EEG signals, integrating deep learning models, such as Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM), to automatically learn and extract features from EEG signals. By combining these features with ensemble learning methods (SVM, Random Forests, and XGBoost), we create a sophisticated predictive model. Unlike traditional approaches, our system seeks to transcend the limitations of individual models by combining the strengths of diverse algorithms through a majority voting strategy.
+
+## System Architecture
+
+![image](https://github.com/nikhilarokkam/EEG-BASED-EPILEPTIC-SEIZURE-PREDICTION-USING-ENSEMBLE-LEARNING/assets/115566678/9f0cd0ac-db5f-43e6-b9ef-4244095e762f)
 
 ## Dataset
 
