@@ -56,6 +56,9 @@ We developed a web application using Streamlit. Users can input EEG readings, an
 - **If a seizure is predicted**: "A seizure is going to occur in a few minutes. Take necessary precautions!!"
 - **If no seizure is predicted**: "No seizure is going to occur. Keep calm and carry on!"
 
+![screencapture-localhost-8501-2024-04-02-09_58_41](https://github.com/nikhilarokkam/EEG-BASED-EPILEPTIC-SEIZURE-PREDICTION-USING-ENSEMBLE-LEARNING/assets/115566678/98af72d6-f38c-4fab-b9b7-6d925e219e98)
+![screencapture-localhost-8501-2024-04-02-09_47_16](https://github.com/nikhilarokkam/EEG-BASED-EPILEPTIC-SEIZURE-PREDICTION-USING-ENSEMBLE-LEARNING/assets/115566678/f31b1a35-eb85-4f93-b27a-f6ffae08dd34)
+
 ## Installation and Usage
 
 To run the project locally:
