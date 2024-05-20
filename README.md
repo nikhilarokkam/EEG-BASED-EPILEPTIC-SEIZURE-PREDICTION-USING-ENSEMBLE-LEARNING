@@ -63,6 +63,7 @@ We developed a web application using Streamlit. Users can input EEG readings, an
 
 ![screencapture-localhost-8501-2024-04-02-09_58_41](https://github.com/nikhilarokkam/EEG-BASED-EPILEPTIC-SEIZURE-PREDICTION-USING-ENSEMBLE-LEARNING/assets/115566678/98af72d6-f38c-4fab-b9b7-6d925e219e98)
 ![screencapture-localhost-8501-2024-04-02-09_47_16](https://github.com/nikhilarokkam/EEG-BASED-EPILEPTIC-SEIZURE-PREDICTION-USING-ENSEMBLE-LEARNING/assets/115566678/f31b1a35-eb85-4f93-b27a-f6ffae08dd34)
+![image (2)](https://github.com/nikhilarokkam/EEG-BASED-EPILEPTIC-SEIZURE-PREDICTION-USING-ENSEMBLE-LEARNING/assets/115566678/5d631894-8ffa-4764-87fa-15365741bf72)
 
 ## Installation and Usage
 
