@@ -66,7 +66,8 @@ To run the project locally:
    cd EEG-Based-Epileptic-Seizure-Prediction
 2. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install scikit-learn
+   pip install streamlit
 3. Run the Streamlit application:
    ```bash
    streamlit run main.py
