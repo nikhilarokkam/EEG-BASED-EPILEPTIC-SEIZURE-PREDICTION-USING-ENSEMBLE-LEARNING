@@ -14,14 +14,14 @@ Epilepsy, a pervasive neurological disorder marked by unpredictable seizures, po
 
 ## Table of Contents
 
-- [Project Description](#project-description)
-- [Dataset](#dataset)
-- [Feature Extraction and Selection](#feature-extraction-and-selection)
-- [Modeling](#modeling)
-- [Web Application](#web-application)
-- [Installation and Usage](#installation-and-usage)
-- [Results](#results)
-- [Future Work](#future-work)
+- Project Description
+- Dataset
+- Feature Extraction and Selection
+- Modeling
+- Web Application
+- Installation and Usage
+- Results
+- Future Work
   
 ## Project Description
 
