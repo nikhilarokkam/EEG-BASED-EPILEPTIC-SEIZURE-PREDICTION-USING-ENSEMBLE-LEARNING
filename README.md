@@ -86,7 +86,7 @@ To run the project locally:
 Through rigorous training, validation, and testing, the developed model seeks to enhance the accuracy, specificity, and sensitivity of seizure prediction. Detailed results and performance metrics are documented in the results section of our project book.  Here are the key performance metrics:
 
 - Accuracy: 94%
-- Specificity: 97%
+- Specificity (the proportion of true negatives that are correctly identified by the model): 97%
 
 ## Future Work
 Future improvements could include:
