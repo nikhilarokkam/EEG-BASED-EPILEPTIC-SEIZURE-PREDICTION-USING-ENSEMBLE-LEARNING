@@ -3,7 +3,6 @@
 
 
 
-
 ## Overview
 
 Epilepsy, a pervasive neurological disorder marked by unpredictable seizures, poses profound challenges for affected individuals, impacting their daily lives and overall well-being. Identifying seizures ahead of time is paramount for individuals coping with epilepsy to maintain a sense of control over their health. Through this project, we delve into cutting-edge technology to enhance seizure prediction methodologies. By fine-tuning these approaches, our objective is to furnish more precise and dependable forecasts, thereby empowering swift responses that mitigate the disruptive repercussions of seizures.
